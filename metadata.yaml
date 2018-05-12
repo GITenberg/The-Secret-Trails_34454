@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34454#The-Secret-Trails
 gutenberg_issued: '2010-11-27'
 gutenberg_type: Text
 identifiers:
