@@ -1,0 +1,35 @@
+_repo: The-Secret-Trails_34454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2010-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34454'
+  lccn: '16023022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+tableOfContents: The black boar of Lonesome Water -- The dog that saved the bridge
+  -- The calling of the lop-horned bull -- The aigrette -- The cabin in the flood
+  -- The brothers of the yoke -- The trailers -- Cock-crow -- The ledge on Bald Face
+  -- The morning of the silver frost.
+title: The Secret Trails
+url: http://www.gutenberg.org/ebooks/34454
